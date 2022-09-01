@@ -49,3 +49,7 @@ https://github.com/NijatMukhtar/blockcraft
 # Persistence Usb Project (w/ eljn0, Ahmet Birkan Tekkan)
 
 https://github.com/NijatMukhtar/Persistence-Usb-w-Ahmet-Birkan
+
+-------------------------------------------------------------------------------------------------------------
+
+I had finished 22 projects with eljn0.
